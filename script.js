@@ -27,7 +27,7 @@ const projects = [
         category: "monologue",
         description: "A powerful solo performance exploring grief and memory through minimal dialogue and maximum expression.",
         year: "2023",
-        youtubeId: "orAb4b-pz18" // Replace with actual YouTube ID
+        youtubeId: "VjJqLqI3vWA" // Replace with actual YouTube ID
     },
     {
         id: 2,
@@ -35,7 +35,7 @@ const projects = [
         category: "film",
         description: "Modern adaptation of classical themes in a city landscape. A short film about urban isolation.",
         year: "2023",
-        youtubeId: "V7_11rGt7yM" // Replace with actual YouTube ID
+        youtubeId: "75N732chSDM" // Replace with actual YouTube ID
     },
     {
         id: 3,
@@ -43,7 +43,7 @@ const projects = [
         category: "theatre",
         description: "Stage play about hope in the darkest times. Performed at National Theatre Festival.",
         year: "2022",
-        youtubeId: "dQw4w9WgXcQ" // Replace with actual YouTube ID
+        youtubeId: "7yPgi80zY2s" // Replace with actual YouTube ID
     },
     {
         id: 4,
